@@ -20,11 +20,10 @@ Steps:
  * ??????
  * You're now a contributor!
 
+ 
 --
- 
- 
 *Contributors so far:*
 
--- StrikingLoo
--- Your name here
+* StrikingLoo
+* *Your name here*
 
