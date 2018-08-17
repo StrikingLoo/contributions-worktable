@@ -7,7 +7,7 @@ Steps:
  * Copy your local repository's link from the 'Clone' button.
  * Create an empty directory in your computer.
  * Run ```git remote add origin *LINK YOU COPIED* ```
- * Copy the link to this repo from the 'Clone' button.
+ * Copy the link to this repo from the 'Clone' button. It should be https://github.com/StrikingLoo/contributions-worktable.git
  * Run ```git remote add upstream *LINK TO THIS REPO* ```
  * Run ``` git pull origin ```. Hopefully you'll have credentials.
  * Add your name below in this readme.md, using your favorite text editor.
