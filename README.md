@@ -25,5 +25,5 @@ Steps:
 *Contributors so far:*
 
 * StrikingLoo
-* *Your name here*
+* Good Luck
 
