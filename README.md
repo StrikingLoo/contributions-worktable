@@ -13,6 +13,7 @@ Steps:
  * Add your name below in this readme.md, using your favorite text editor.
  * Run ``` git add README.md ```
  * Run ``` git commit -m 'contributing to open source!' ``` or some other awesome message.
+ * Run ``` git pull upstream master ``` (Pulling before pushing is a good practice, and will save you the touble if someone else pushed while you were writing changes)
  * Run ``` git push origin master ```
  * Visit the link to your repository, click 'pull request'.
  * Do a request so I merge our branches.
