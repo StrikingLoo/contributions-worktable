@@ -29,3 +29,4 @@ _Contributors so far:_
 - Good Luck
 - Charae Keow
 - Gerardo Fernandez
+- Ryan Butler
