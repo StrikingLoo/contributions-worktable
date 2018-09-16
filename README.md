@@ -7,6 +7,7 @@ An example repository for people to make test contributions.
 - Press fork. This will create a copy of this repository in your account.
 - Copy your local repository's link from the 'Clone' button.
 - Create an empty directory in your computer.
+- Run `git init` from the empty directory you've just created.
 - Run `git remote add origin *LINK YOU COPIED*`
 - Copy the link to this repo from the 'Clone' button. It should be https://github.com/StrikingLoo/contributions-worktable.git
 - Run `git remote add upstream *LINK TO THIS REPO*`
@@ -30,3 +31,4 @@ _Contributors so far:_
 - Charae Keow
 - Gerardo Fernandez
 - Ryan Butler
+- guilhermo
