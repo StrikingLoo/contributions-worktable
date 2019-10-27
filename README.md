@@ -35,3 +35,5 @@ _Contributors so far:_
 - vishal vardhan
 - hnumair
 - MikailSeremet
+- nicocastanio
+- chrisbangun
