@@ -37,3 +37,4 @@ _Contributors so far:_
 - MikailSeremet
 - nicocastanio
 - chrisbangun
+- Ayush Bindlish
